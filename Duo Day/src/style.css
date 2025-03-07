@@ -1,0 +1,56 @@
+
+
+a {
+  font-weight: 500;
+  color: #646cff;
+  text-decoration: inherit;
+}
+a:hover {
+  color: #535bf2;
+}
+
+body {
+  margin: 0;
+  padding-left: 50px;
+  padding-right: 50px;
+}
+
+h1 {
+  font-size: 3.2em;
+  line-height: 1.1;
+}
+
+#calendar {
+  height: 1000px;
+  width: 1000px;
+}
+
+#stats {
+  padding: 50px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  gap: 15px;
+}
+
+#avatar-card {
+  align-items: center;
+}
+
+#avatars {
+  list-style: none;
+  flex-direction: row;
+  margin: 0;
+  padding: 0;
+  display: flex; /* Makes items align in a row */
+  gap: 15px;
+}
+
+#new-button {
+  height: 60px;
+  width: 200px ;
+}
+
+p {
+  padding-top: 5px;
+}
