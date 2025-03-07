@@ -12,7 +12,7 @@ This app isn't just about tracking habits. It’s about **committing to a change
 
 This app is designed with **research-backed methodologies, a brutally functional approach, and a minimalist UI** to ensure **maximum efficiency without distractions**.  
 
-> ** It’s not just an app – it’s a system that works.**  
+>  It’s not just an app – it’s a system that works. 
 
 
 ##  Key Features  
